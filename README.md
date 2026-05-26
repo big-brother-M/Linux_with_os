@@ -1,4 +1,4 @@
-# Linux Agent Monitoring Lab 제출 README
+# Linux Agent Monitoring Lab
 
 이 저장소는 Ubuntu 22.04 기반 Docker 환경에서 SSH 보안 설정, UFW 방화벽, 역할 기반 계정/그룹/ACL, 제공 Agent 앱 실행, `monitor.sh` 기반 관제 자동화, cron 주기 실행, 로그 용량 관리를 구현한 과제 제출물이다.
 
