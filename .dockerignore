@@ -1,0 +1,7 @@
+.DS_Store
+.git
+.gitignore
+__MACOSX
+*.log
+q
+agent-app/
